@@ -1,3 +1,9 @@
+Weather Dashboard
+
+Weather Dashboard is a web app that displays the current weather.
+It also predicts the weather for the next five days.
+
+
 # 08 Server-Side APIs: Weather Dashboard
 
 ## Your Task
